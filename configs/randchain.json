@@ -1,0 +1,12 @@
+{
+    "Name": "RandChainNet",
+    "Desc": "RandChain Main Net",
+    "Id": "0xd9b4bef9",
+    "Port": 8333,
+    "Pver": 70001,
+    "DNSName": "dnsseed.randchain.org",
+    "TTL": 600,
+    "Seeder1": "dnsseed1.randchain.org",
+    "Seeder2": "dnsseed2.randchain.org",
+    "Seeder3": "dnsseed3.randchain.org"
+}
