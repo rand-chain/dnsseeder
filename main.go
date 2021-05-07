@@ -54,7 +54,7 @@ func main() {
 	config.uptime = time.Now()
 
 	flag.StringVar(&netfile, "netfile", "", "List of json config files to load")
-	flag.StringVar(&config.port, "p", "8053", "DNS Port to listen on")
+	flag.StringVar(&config.port, "p", "53", "DNS Port to listen on")
 	flag.StringVar(&config.http, "w", "", "Web Port to listen on. No port specified & no web server running")
 	flag.BoolVar(&j, "j", false, "Write network template file (dnsseeder.json) and exit")
 	flag.BoolVar(&config.verbose, "v", false, "Display verbose output")
