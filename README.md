@@ -1,7 +1,7 @@
 # dnsseeder
-Go Language dns seeder for Networks that use Bitcoin technology such as the [Twister P2P network](http://twister.net.co/) and the Bitcoin networks.
+Go Language dns seeder for Networks that use RandChain technology such as the [Twister P2P network](http://twister.net.co/) and the RandChain networks.
 
-It is based on the original c++ seeders created for the Bitcoin network and copied to other similar networks.
+It is based on the original c++ seeders created for the RandChain network and copied to other similar networks.
 
 ## Features
 
@@ -106,6 +106,6 @@ the -p 5353 option.
 
 For the DNS library license see https://github.com/miekg/dns
 
-For the bitcoin library license see https://github.com/btcsuite/btcd
+For the RandChain library license see https://github.com/btcsuite/btcd
 
 
